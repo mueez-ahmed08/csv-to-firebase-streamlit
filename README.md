@@ -69,12 +69,15 @@ http://localhost:8501
 ## 📸 Screenshots
 
 Upload CSV File
+
 ![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/bb104008bd76b716cebbb78455073e8beee929b0/DSP1.JPG)
 
 Data Preview
+
 ![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/9f0d43c148ab6f60bde9de6a7e52c24573fd1522/DSP2.JPG)
 
 Data Stored in Firebase
+
 ![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/e313228a56ef05bb2db9e5fe7d69cf2acc9c448e/DSP3.JPG)
 
 
