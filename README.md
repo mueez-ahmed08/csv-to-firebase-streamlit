@@ -69,7 +69,7 @@ http://localhost:8501
 ## 📸 Screenshots
 
 Upload CSV File
-![upload Screen](DSP1)
+![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/bb104008bd76b716cebbb78455073e8beee929b0/DSP1.JPG)
 
 Data Preview
 ![upload Screen](DSP2)
