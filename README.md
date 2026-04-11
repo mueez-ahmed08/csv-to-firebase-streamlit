@@ -72,7 +72,7 @@ Upload CSV File
 ![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/bb104008bd76b716cebbb78455073e8beee929b0/DSP1.JPG)
 
 Data Preview
-![upload Screen](DSP2)
+![image alt](https://github.com/mueez-ahmed08/csv-to-firebase-streamlit/blob/9f0d43c148ab6f60bde9de6a7e52c24573fd1522/DSP2.JPG)
 
 Data Stored in Firebase
 ![upload Screen](DSP3)
